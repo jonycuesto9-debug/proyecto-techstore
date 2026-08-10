@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo_catalogo.xsl"?>
+<!DOCTYPE catalogo SYSTEM "datos.dtd">
+<catalogo>
+    <producto>
+        <id>1</id>
+        <nombre>Mouse Gaming RGB</nombre>
+        <categoria>Periféricos</categoria>
+        <precio>45.99</precio>
+        <descripcion>Mouse ergonómico con sensor óptico de 16000 DPI y luces RGB personalizables.</descripcion>
+        <imagen>https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400</imagen>
+        <stock>15</stock>
+    </producto>
+    <producto>
+        <id>2</id>
+        <nombre>Teclado Mecánico Pro</nombre>
+        <categoria>Periféricos</categoria>
+        <precio>89.99</precio>
+        <descripcion>Teclado mecánico con switches Red, retroiluminación y diseño compacto TKL.</descripcion>
+        <imagen>https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400</imagen>
+        <stock>8</stock>
+    </producto>
+    <producto>
+        <id>3</id>
+        <nombre>Auriculares Surround 7.1</nombre>
+        <categoria>Audio</categoria>
+        <precio>69.50</precio>
+        <descripcion>Diadema con sonido envolvente, micrófono con cancelación de ruido y almohadillas viscoelásticas.</descripcion>
+        <imagen>https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400</imagen>
+        <stock>20</stock>
+    </producto>
+    <producto>
+        <id>4</id>
+        <nombre>Monitor Gaming 144Hz</nombre>
+        <categoria>Monitores</categoria>
+        <precio>229.00</precio>
+        <descripcion>Pantalla IPS de 24 pulgadas Full HD con tiempo de respuesta de 1ms y FreeSync.</descripcion>
+        <imagen>https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400</imagen>
+        <stock>5</stock>
+    </producto>
+    <producto>
+        <id>5</id>
+        <nombre>Silla Gaming Ergonómica</nombre>
+        <categoria>Mobiliario</categoria>
+        <precio>179.99</precio>
+        <descripcion>Silla acolchada con ajuste lumbar, reposabrazos 3D y reclinación hasta 180 grados.</descripcion>
+        <imagen>https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=400</imagen>
+        <stock>12</stock>
+    </producto>
+    <producto>
+        <id>6</id>
+        <nombre>Cámara Web Full HD 1080p</nombre>
+        <categoria>Video</categoria>
+        <precio>39.99</precio>
+        <descripcion>Webcam ideal para streaming y videoconferencias con micrófono estéreo integrado.</descripcion>
+        <imagen>https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=400</imagen>
+        <stock>25</stock>
+    </producto>
+</catalogo>
